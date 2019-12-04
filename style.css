@@ -1,0 +1,19 @@
+.box {
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+}
+
+.grid-container {
+  display: flex;
+  width: 89%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.box {
+  border: black 2px groove;
+  width: 180px;
+  height: 180px;
+  font-size: 150px;
+}
