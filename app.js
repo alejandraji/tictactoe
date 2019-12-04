@@ -58,7 +58,6 @@ function squareClick(square) {
 function playAgain() {
   let response = confirm("play again?!");
   if (response == true) {
-    alert("playing again!");
   } else {
     alert("see you next time!");
   }
